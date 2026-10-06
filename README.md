@@ -5,7 +5,7 @@ An executive-style interactive Tableau dashboard designed to analyze 5,000 synth
 ---
 
 ## 📊 Live Interactive Dashboard
-👉 [**View Live Dashboard on Tableau Public**](ISIKAN_LINK_TABLEAU_PUBLIC_KAMU_DI_SINI)
+👉 [**View Live Dashboard on Tableau Public**](https://public.tableau.com/views/ShopeeProductPerformanceDashboard/ShopeeProductPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
